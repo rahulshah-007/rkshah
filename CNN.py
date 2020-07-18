@@ -2,10 +2,11 @@
 """
 Created on Sun May 31 15:10:22 2020
 
-@author: rksha
+@author: rkshah
 """
-
-
+#MAR_ACTIVITY
+#MAKAUT
+#MACHINE_LEARNING
 import numpy as np
 import keras
 from keras.models import Sequential
